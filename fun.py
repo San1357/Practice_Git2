@@ -2,7 +2,7 @@ def sum(a,b):
     return a+b
 
 def avg(a, b):
-   pass
+   retrun(a+b)/2
 
 def armstrong(n):
     
